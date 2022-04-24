@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Write typescript",
+        "description": "something is going on here",
+        "duration": "2022-09-30 to 2022-10-30",
+        "author": "peace",
+        "id": 1
+    },
+    {
+        "title": "Learn codes",
+        "description": "what happen here",
+        "duration": "2022-09-30 to 2022-10-30",
+        "author": "alice",
+        "id": 2
+    },
+    {
+        "title": "Learn js",
+        "description": "something is going on",
+        "duration": "2022-09-30 to 2022-10-30",
+        "author": "alice",
+        "id": 3
+    },
+    {
+        "title": "Learn React",
+        "description": "something is going on",
+        "duration": "2022-09-30 to 2022-10-30",
+        "author": "ayo",
+        "id": 4
+    },
+    {
+        "title": "Learn some",
+        "description": "something is going on",
+        "duration": "2022-09-30 to 2022-10-30",
+        "author": "peace",
+        "id": 5
+    }
+]
